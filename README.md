@@ -17,3 +17,4 @@ Depends on [libsodium](https://github.com/jedisct1/libsodium). OpenWrt package a
 2. Upload the dnscrypt-proxy_1.4.0-1_{PLATFORM}.ipk to your OpenWrt router : `scp dnscrypt-proxy_1.4.0-1_{PLATFORM}.ipk root@ip_of_your_openwrt:~`
 3. Now remote login to your OpenWrt : `ssh root@ip_of_your_openwrt`
 4. Remote install the package : `opkg install dnscrypt-proxy_1.4.0-1_{PLATFORM}.ipk`
+5. Follow configuration instructions : http://wiki.openwrt.org/inbox/dnscrypt#configuration
