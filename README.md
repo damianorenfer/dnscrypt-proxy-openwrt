@@ -1,6 +1,11 @@
 dnscrypt-proxy-openwrt
 ======================
 
+
+You find this package in the new OpenWrt feed : [net/dnscrypt-proxy](https://github.com/openwrt/packages/tree/master/net/dnscrypt-proxy)
+
+##Deprecated
+
 [dnscrypt](https://github.com/opendns/dnscrypt-proxy) OpenWrt Makefile for package building, based on [Black Roland](https://github.com/black-roland/exOpenWrt) one (thank you :smile: )
 
 Depends on [libsodium](https://github.com/jedisct1/libsodium). OpenWrt package and Makefile available at https://github.com/damianorenfer/libsodium-openwrt
